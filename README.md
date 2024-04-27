@@ -12,6 +12,8 @@ Use an IPS patcher, such as [this one](https://www.marcrobledo.com/RomPatcher.js
 
 Ensure you apply the IPS file that matches your game version—it's either v1.0 or v1.1.
 
+The `disable_bgm` patch disables the music, and the `disable_low_hp_sfx` patch disables the low HP SFX during battles. You can apply either patch separately, or both of them together.
+
 ## Issues
 
 Feel free to report issues in the issue tracker, such as if this patch fails to remove a song in a specific unique situation.
